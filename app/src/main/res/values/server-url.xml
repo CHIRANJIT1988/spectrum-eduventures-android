@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="spectrumServerAdminUrl">http://admin.spectrumeduventures.in/</string>
+    <string name="spectrumServerBaseUrl">http://api.spectrumeduventures.in/</string>
+    <!--
+    <string name="spectrumServerBaseUrl">http://192.168.111.3:8012/digital-institute-api/</string>
+    -->
+    <string name="spectrumServerUpdateSchoolUrl">sync-school-details.php</string>
+    <string name="spectrumServerUpdateProfileUrl">sync-profile-details.php</string>
+    <string name="spectrumServerScoreUrl">sync-mock-test-score.php</string>
+    <string name="spectrumServerRegisterUrl">register-user.php</string>
+    <string name="spectrumServerLoginUrl">login-user.php</string>
+    <string name="spectrumServerPasswordChangeUrl">change-password.php</string>
+    <string name="spectrumServerMobileVerificationUrl">request-otp.php</string>
+    <string name="spectrumServerUnitUrl">receive-units.php</string>
+    <string name="spectrumServerTopicUrl">receive-topics.php</string>
+    <string name="spectrumServerTestUrl">receive-test.php</string>
+    <string name="spectrumServerTestPaperUrl">receive-test-papers.php</string>
+    <string name="spectrumServerDefaultDataUrl">receive-default-data.php</string>
+    <string name="spectrumServerDPPUrl">receive-daily-practice-papers.php</string>
+    <string name="spectrumServerCountUnitUrl">count-unit.php</string>
+    <string name="spectrumServerCountTestUrl">count-mock-test-paper.php</string>
+    <string name="spectrumServerCountDPPUrl">count-dpp.php</string>
+    <string name="spectrumServerImageUrl">images/</string>
+</resources>
